@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "id": 990016,
-  "lease_token": "e87cbd0a-1864-4d04-82fd-f7f62aa99016",
+  "id": 990017,
+  "lease_token": "ea527823-2c43-40c0-b8f4-941ee8589017",
   "timeout_seconds": 15,
   "attempts": 1,
   "command": "systemctl --user restart c720p-agent-runner.service"
